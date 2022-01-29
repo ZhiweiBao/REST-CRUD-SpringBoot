@@ -1,6 +1,5 @@
 package edu.neu.springboot.cruddemo.controller;
 
-import edu.neu.springboot.cruddemo.dao.EmployeeDAO;
 import edu.neu.springboot.cruddemo.entity.Employee;
 import edu.neu.springboot.cruddemo.service.EmployeeService;
 import java.util.List;
